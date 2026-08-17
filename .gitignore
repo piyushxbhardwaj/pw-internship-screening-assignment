@@ -158,6 +158,13 @@
 
 # Compressed files
 *.zip
+
+# Task 03 - generated artifacts (regenerate with scripts/ or the pipeline)
+task3/output/
+task3/output_fallback/
+task3/fixtures/synthetic/
+task3/.venv/
+task3/input/
 *.rar
 *.7z
 *.tar
