@@ -1,0 +1,5 @@
+faster-whisper>=1.1.0
+opencv-python-headless>=4.9
+pytesseract>=0.3.10
+rapidfuzz>=3.0.0
+piper-tts>=1.6.0

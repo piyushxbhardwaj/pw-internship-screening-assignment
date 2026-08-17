@@ -165,6 +165,10 @@ task3/output_fallback/
 task3/fixtures/synthetic/
 task3/.venv/
 task3/input/
+
+# Task 01 - generated artifacts (regenerate with scripts/ or the pipeline)
+task1/output*/
+task1/demo_input/voices/
 *.rar
 *.7z
 *.tar

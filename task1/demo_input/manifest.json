@@ -1,0 +1,8 @@
+{
+  "label": "SYNTHETIC DEMO INPUT - NOT the official PW assignment asset",
+  "generator": "make_demo_input.py",
+  "image": "demo_input/background.png",
+  "narration_script": "demo_input/narration.txt",
+  "narration_audio": "demo_input/narration.wav",
+  "script_text": "Welcome students. Today we will solve a numerical problem from physics. Let us read the question carefully. A body of mass five kilograms is moving with a velocity of ten meters per second. Find the momentum of the body. Now to solve this problem, we recall the formula. Momentum equals mass times velocity. Substituting the values, momentum equals five multiplied by ten. So the momentum is fifty kilogram meters per second. Now look at the options. Option A is ten kilogram meters per second. Option B is twenty kilogram meters per second. Option C is fifty kilogram meters per second. Option D is one hundred kilogram meters per second. Since the momentum is fifty kilogram meters per second, the correct answer is option C. Therefore, option C is the correct answer."
+}
